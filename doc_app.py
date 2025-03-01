@@ -15,7 +15,7 @@ import streamlit as st
 
 
 
-pages = { "Overview":[
+pages = { "OVERVIEW":[
           st.Page("docs/overview/overview.py", title="Overview", icon="🔥",)
     ],
          
